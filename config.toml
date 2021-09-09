@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://profile.zhangchi.com"
+baseURL = "https://profile.zhangchi.fun"
 languageCode = "zh-cn"
 summaryLength = "10"
 theme = "kross-hugo"
