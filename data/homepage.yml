@@ -1,0 +1,160 @@
+# banner
+banner:
+  title: "Hi! 我是 <br> 张驰 <br> .NET 工程师"
+
+# about
+about:
+  enable: true
+  content: "拥有多年.NET程序设计经验，擅长基于.NET平台的Web应用开发及移动应用开发。对软件架构设计及领域驱动设计有深入了解，致力于提升软件的可靠性、可扩展性及可伸缩性。"
+  button:
+    enable: false
+    label: "know more"
+    URL: "about"
+
+# skill
+skill:
+  enable: true
+  title: "Skills"
+  item:
+    - title: ".NET"
+      progress: "70%"
+      color: "#fdb157"
+
+    - title: "Abp"
+      progress: "90%"
+      color: "#9473e6"
+
+    - title: "领域驱动设计"
+      progress: "70%"
+      color: "#bdecf6"
+
+    - title: "软件架构"
+      progress: "80%"
+      color: "#ffbcaa"
+
+    - title: "MAUI"
+      progress: "60%"
+      color: "#7b3b8c"
+
+    - title: "Blazor"
+      progress: "80%"
+      color: "#f54ea2"
+
+    - title: "Angular"
+      progress: "70%"
+      color: "#97ecc5"
+
+    - title: "数据库"
+      progress: "60%"
+      color: "#a94caf"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  item:
+    - logo: "images/experience/icon-1.png"
+      title: ".NET 工程师"
+      company: "山东星宏电讯有限责任公司"
+      duration: "2019年09月 - 2020年11月"
+
+    - logo: "images/experience/icon-2.png"
+      title: ".NET 工程师"
+      company: "济南超级计算技术研究院"
+      duration: "2021年06月 - 至今"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  item:
+    - title: "计算机科学与技术"
+      year: "2015 - 2019"
+      academy: "齐鲁工业大学（山东省科学院）"
+
+# service
+service:
+  enable: true
+  title: "Services"
+  item:
+    - title: "Web应用设计开发"
+      icon: "ti-palette"
+      content: "基于.NET平台，构建高效的现代化Web应用程序"
+      highlighted: false
+
+    - title: "软件及架构咨询"
+      icon: "ti-vector"
+      content: ".NET技术栈、软件架构、设计模式、领域驱动设计等技术咨询与培训"
+      highlighted: true
+
+    - title: "跨平台移动应用开发"
+      icon: "ti-panel"
+      content: "基于现代化的MAUI框架，开发跨平台原生手机应用程序"
+      highlighted: false
+
+# portfolio
+portfolio:
+  enable: false
+  title: "Portfolio"
+  item_show: 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  item:
+    - name: "Jesica Gomez"
+      image: "images/testimonial/client-1.png"
+      designation: "CEO, Funder"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+    - name: "Shirley Scot"
+      image: "images/testimonial/client-1.png"
+      designation: "CEO, Funder"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+    - name: "Jessica Julie"
+      image: "images/testimonial/client-1.png"
+      designation: "CEO, Funder"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# client logo slider
+clients_logo_slider:
+  enable: false
+  item:
+    - logo: "images/clients-logo/client-logo-1.png"
+      URL: "http://examplesite.com"
+
+    - logo: "images/clients-logo/client-logo-2.png"
+      URL: "#"
+
+    - logo: "images/clients-logo/client-logo-3.png"
+      URL: "http://examplesite.com"
+
+    - logo: "images/clients-logo/client-logo-4.png"
+      URL: "#"
+
+    - logo: "images/clients-logo/client-logo-5.png"
+      URL: "http://examplesite.com"
+
+    - logo: "images/clients-logo/client-logo-1.png"
+      URL: "#"
+
+    - logo: "images/clients-logo/client-logo-2.png"
+      URL: "http://examplesite.com"
+
+    - logo: "images/clients-logo/client-logo-3.png"
+      URL: "#"
+
+    - logo: "images/clients-logo/client-logo-4.png"
+      URL: "http://examplesite.com"
+
+    - logo: "images/clients-logo/client-logo-5.png"
+      URL: "#"
+
+# blog
+blog:
+  enable: false
+  title: "Blogs"
+  # blog post comes from "content/blog" folder
