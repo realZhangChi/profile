@@ -53,15 +53,20 @@ experience:
   enable: true
   title: "Experience"
   item:
+    - logo: "images/experience/icon-2.png"
+      title: ".NET 工程师"
+      company: "山东某国有企业"
+      duration: "2018年"
+
     - logo: "images/experience/icon-1.png"
       title: ".NET 工程师"
-      company: "山东星宏电讯有限责任公司"
-      duration: "2019年09月 - 2020年11月"
+      company: "山东某大型公司"
+      duration: "2019年"
 
     - logo: "images/experience/icon-2.png"
       title: ".NET 工程师"
-      company: "济南超级计算技术研究院"
-      duration: "2021年06月 - 至今"
+      company: "山东某科研机构"
+      duration: "Now"
 
 # education
 education:
@@ -69,7 +74,7 @@ education:
   title: "Education"
   item:
     - title: "计算机科学与技术"
-      year: "2015 - 2019"
+      year: ""
       academy: "齐鲁工业大学（山东省科学院）"
 
 # service
