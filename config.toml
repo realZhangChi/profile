@@ -65,7 +65,7 @@ author = "张驰"
 description = "张驰，.NET工程师，熟练使用C#语言，擅长Abp框架、Web应用程序开发、移动端开发、软件设计、架构设计、领域驱动设计。"
 # google analytics
 google_analytics_id = "G-NXK10QCHTR" # Your ID
-baidu_tongji_id = "9a9634f2779435bfd7dce99f17a9b955"
+baidu_analytics_id = "9a9634f2779435bfd7dce99f17a9b955"
 baidu_site_verification = "code-tjdyPSR8G5"
 # copyright
 copyright = "Copyright &copy; 2021 张驰"
