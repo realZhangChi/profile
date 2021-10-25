@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable: true
-  content: "拥有多年.NET程序设计经验，擅长基于.NET平台的Web应用开发及移动应用开发。对软件架构设计及领域驱动设计有深入了解，致力于提升软件的可靠性、可扩展性及可伸缩性。"
+  content: "拥有多年.NET程序设计经验，擅长基于.NET平台的Web应用开发及移动应用开发。对软件架构设计及领域驱动设计有深入了解，致力于研发高质量的应用程序。"
   button:
     enable: false
     label: "know more"
@@ -13,7 +13,7 @@ about:
 
 # skill
 skill:
-  enable: true
+  enable: false
   title: "Skills"
   item:
     - title: ".NET"
@@ -50,36 +50,36 @@ skill:
 
 # experience
 experience:
-  enable: true
+  enable: false
   title: "Experience"
   item:
     - logo: "images/experience/icon-2.png"
       title: ".NET 工程师"
-      company: "山东某国有企业"
+      company: "***"
       duration: "2018年"
 
     - logo: "images/experience/icon-1.png"
       title: ".NET 工程师"
-      company: "山东某大型公司"
+      company: "***"
       duration: "2019年"
 
     - logo: "images/experience/icon-2.png"
       title: ".NET 工程师"
-      company: "山东某科研机构"
+      company: "***"
       duration: "Now"
 
 # education
 education:
-  enable: true
+  enable: false
   title: "Education"
   item:
     - title: "计算机科学与技术"
       year: ""
-      academy: "齐鲁工业大学（山东省科学院）"
+      academy: "***"
 
 # service
 service:
-  enable: true
+  enable: false
   title: "Services"
   item:
     - title: "Web应用设计开发"
