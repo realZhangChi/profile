@@ -4,7 +4,7 @@ banner:
 
 # about
 about:
-  enable: true
+  enable: false
   content: "拥有多年.NET程序设计经验，擅长基于.NET平台的Web应用开发及移动应用开发。对软件架构设计及领域驱动设计有深入了解，致力于研发高质量的应用程序。"
   button:
     enable: false
