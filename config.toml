@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://profile.zhangchi.fun"
+baseURL = "https://profile.zhangchi.io"
 languageCode = "zh-cn"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -34,7 +34,7 @@ link = "plugins/google-map/map.js"
 #weight = 1
 
 [[menu.main]]
-URL = "https://blog.zhangchi.fun"
+URL = "https://zhangchi.io"
 name = "Blog"
 weight = 2
 
@@ -102,4 +102,4 @@ URL = "https://github.com/realZhangChi"
 
 [[params.social]]
 icon = "ti-heart"
-URL = "https://blog.zhangchi.fun"
+URL = "https://zhangchi.io"
