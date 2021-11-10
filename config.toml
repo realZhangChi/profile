@@ -64,8 +64,8 @@ address = "山东省济南市"
 author = "张驰"
 description = "张驰 软件工程师"
 # google analytics
-google_analytics_id = "G-NXK10QCHTR" # Your ID
-baidu_analytics_id = "9a9634f2779435bfd7dce99f17a9b955"
+google_analytics_id = "G-GXF6H6XH7Q" # Your ID
+baidu_analytics_id = "da98ec3c718fb9b04dfcfb075b9b3bca"
 baidu_site_verification = "code-tjdyPSR8G5"
 baidu_auto_push = true
 # copyright
